@@ -1,4 +1,4 @@
-// leetcode - 189. Rotate Array
+// leetcode - 1752. check if array is Rotated & Sorted Array
 
 #include <iostream>
 #include <vector>
