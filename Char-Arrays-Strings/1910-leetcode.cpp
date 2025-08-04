@@ -1,3 +1,5 @@
+// remove all occurence of a substring
+
 #include<iostream>
 using namespace std;
 
@@ -8,10 +10,6 @@ string removeOccurence(string s, string part){
 
     return s;
 }
-
-
-
-
 
 int main(){
 
